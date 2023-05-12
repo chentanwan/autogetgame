@@ -1,4 +1,4 @@
-2023/05/12-06:20:39.108 797 Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Session Storage/MANIFEST-000001
-2023/05/12-06:20:39.108 797 Recovering log #4
-2023/05/12-06:20:39.109 797 Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Session Storage/000004.log 
-2023/05/12-06:20:39.109 797 Delete type=0 #3
+2023/05/13-06:21:16.430 7f0 Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Session Storage/MANIFEST-000001
+2023/05/13-06:21:16.431 7f0 Recovering log #4
+2023/05/13-06:21:16.431 7f0 Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Session Storage/000004.log 
+2023/05/13-06:21:16.432 7f0 Delete type=0 #3
