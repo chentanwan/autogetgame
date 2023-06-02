@@ -1,3 +1,6 @@
-2023/06/02-06:21:39.616 7f2 Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/MANIFEST-000001
-2023/06/02-06:21:39.617 7f2 Recovering log #3
-2023/06/02-06:21:39.617 7f2 Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/000003.log 
+2023/06/03-06:21:08.581 7ad Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/MANIFEST-000001
+2023/06/03-06:21:08.592 7ad Recovering log #3
+2023/06/03-06:21:08.595 7ad Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/000003.log 
+2023/06/03-06:22:18.070 7ad Level-0 table #5: started
+2023/06/03-06:22:18.073 7ad Level-0 table #5: 8060 bytes OK
+2023/06/03-06:22:18.076 7ad Delete type=0 #3
