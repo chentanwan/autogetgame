@@ -1,4 +1,9 @@
-2023/06/03-06:21:08.918 7ad Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Session Storage/MANIFEST-000001
-2023/06/03-06:21:08.920 7ad Recovering log #4
-2023/06/03-06:21:08.927 7ad Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Session Storage/000004.log 
-2023/06/03-06:21:08.932 7ad Delete type=0 #3
+2023/06/09-06:21:51.594 820 Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Session Storage/MANIFEST-000001
+2023/06/09-06:21:51.594 820 Recovering log #4
+2023/06/09-06:21:51.595 820 Level-0 table #7: started
+2023/06/09-06:21:51.602 820 Level-0 table #7: 9443 bytes OK
+2023/06/09-06:21:51.607 820 Delete type=0 #4
+2023/06/09-06:21:51.607 820 Delete type=0 #3
+2023/06/09-06:43:53.678 1180 Level-0 table #10: started
+2023/06/09-06:43:53.679 1180 Level-0 table #10: 7019 bytes OK
+2023/06/09-06:43:53.700 1180 Delete type=0 #8
