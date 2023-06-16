@@ -1,17 +1,16 @@
-2023/06/16-06:21:59.134 81e Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Session Storage/MANIFEST-000001
-2023/06/16-06:21:59.136 81e Recovering log #12
-2023/06/16-06:21:59.137 81e Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Session Storage/000012.log 
-2023/06/16-06:21:59.138 81e Delete type=0 #4
-2023/06/16-06:21:59.138 81e Delete type=0 #3
-2023/06/16-06:21:59.138 81e Delete type=0 #9
-2023/06/16-06:28:18.903 b0c Level-0 table #16: started
-2023/06/16-06:28:18.905 b0c Level-0 table #16: 8138 bytes OK
-2023/06/16-06:28:18.907 b0c Delete type=0 #12
-2023/06/16-06:28:18.907 b0c Compacting 4@0 + 0@1 files
-2023/06/16-06:28:18.909 b0c Generated table #17@0: 160 keys, 3941 bytes
-2023/06/16-06:28:18.909 b0c Compacted 4@0 + 0@1 files => 3941 bytes
-2023/06/16-06:28:18.909 b0c compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/06/16-06:28:18.910 b0c Delete type=2 #13
-2023/06/16-06:28:18.910 b0c Delete type=2 #7
-2023/06/16-06:28:18.910 b0c Delete type=2 #16
-2023/06/16-06:28:18.910 b0c Delete type=2 #10
+2023/06/17-06:21:32.828 84d Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Session Storage/MANIFEST-000001
+2023/06/17-06:21:32.830 84d Recovering log #15
+2023/06/17-06:21:32.831 84d Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Session Storage/000015.log 
+2023/06/17-06:21:32.832 84d Delete type=0 #4
+2023/06/17-06:21:32.832 84d Delete type=2 #13
+2023/06/17-06:21:32.832 84d Delete type=2 #7
+2023/06/17-06:21:32.832 84d Delete type=0 #3
+2023/06/17-06:21:32.832 84d Delete type=0 #12
+2023/06/17-06:21:32.832 84d Delete type=0 #9
+2023/06/17-06:21:32.832 84d Delete type=2 #10
+2023/06/17-06:40:01.327 c88 Level-0 table #20: started
+2023/06/17-06:40:01.329 c88 Level-0 table #20: 8141 bytes OK
+2023/06/17-06:40:01.331 c88 Delete type=0 #15
+2023/06/17-06:45:14.549 c88 Level-0 table #22: started
+2023/06/17-06:45:14.554 c88 Level-0 table #22: 6920 bytes OK
+2023/06/17-06:45:14.557 c88 Delete type=0 #19

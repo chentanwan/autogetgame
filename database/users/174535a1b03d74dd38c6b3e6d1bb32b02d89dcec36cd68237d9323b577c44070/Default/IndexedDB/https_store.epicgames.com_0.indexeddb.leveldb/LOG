@@ -1,4 +1,4 @@
-2023/06/16-06:22:04.022 813 Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/06/16-06:22:04.022 813 Recovering log #4
-2023/06/16-06:22:04.022 813 Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/000004.log 
-2023/06/16-06:22:04.023 813 Delete type=0 #3
+2023/06/17-06:21:35.520 834 Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/17-06:21:35.520 834 Recovering log #4
+2023/06/17-06:21:35.520 834 Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/000004.log 
+2023/06/17-06:21:35.520 834 Delete type=0 #3
