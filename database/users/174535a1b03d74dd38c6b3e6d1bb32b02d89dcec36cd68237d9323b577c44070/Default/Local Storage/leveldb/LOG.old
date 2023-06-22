@@ -1,9 +1,22 @@
-2023/06/16-06:21:58.395 81e Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/MANIFEST-000001
-2023/06/16-06:21:58.398 81e Recovering log #10
-2023/06/16-06:21:58.399 81e Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/000010.log 
-2023/06/16-06:21:58.400 81e Delete type=0 #4
-2023/06/16-06:21:58.400 81e Delete type=0 #3
-2023/06/16-06:21:58.400 81e Delete type=0 #7
-2023/06/16-06:24:07.695 81e Level-0 table #14: started
-2023/06/16-06:24:07.698 81e Level-0 table #14: 7008 bytes OK
-2023/06/16-06:24:07.701 81e Delete type=0 #10
+2023/06/17-06:21:32.340 84d Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/MANIFEST-000001
+2023/06/17-06:21:32.342 84d Recovering log #13
+2023/06/17-06:21:32.343 84d Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/000013.log 
+2023/06/17-06:21:32.343 84d Delete type=0 #4
+2023/06/17-06:21:32.344 84d Delete type=0 #10
+2023/06/17-06:21:32.344 84d Delete type=0 #3
+2023/06/17-06:21:32.344 84d Delete type=0 #7
+2023/06/17-06:22:39.967 84d Level-0 table #17: started
+2023/06/17-06:22:39.969 84d Level-0 table #17: 7040 bytes OK
+2023/06/17-06:22:39.971 84d Delete type=0 #13
+2023/06/17-06:41:39.967 c88 Level-0 table #19: started
+2023/06/17-06:41:39.969 c88 Level-0 table #19: 7036 bytes OK
+2023/06/17-06:41:39.971 c88 Delete type=0 #16
+2023/06/17-06:41:39.971 c88 Compacting 4@0 + 1@1 files
+2023/06/17-06:41:39.974 c88 Generated table #20@0: 523 keys, 3999 bytes
+2023/06/17-06:41:39.974 c88 Compacted 4@0 + 1@1 files => 3999 bytes
+2023/06/17-06:41:39.975 c88 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/17-06:41:39.976 c88 Delete type=2 #8
+2023/06/17-06:41:39.976 c88 Delete type=2 #19
+2023/06/17-06:41:39.976 c88 Delete type=2 #11
+2023/06/17-06:41:39.976 c88 Delete type=2 #17
+2023/06/17-06:41:39.976 c88 Delete type=2 #14
