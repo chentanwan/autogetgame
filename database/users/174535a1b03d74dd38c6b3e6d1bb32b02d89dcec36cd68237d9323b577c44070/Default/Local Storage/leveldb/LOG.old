@@ -1,11 +1,17 @@
-2023/07/08-06:24:30.060 7dd Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/08-06:24:30.061 7dd Recovering log #18
-2023/07/08-06:24:30.061 7dd Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/000018.log 
-2023/07/08-06:24:30.063 7dd Delete type=0 #10
-2023/07/08-06:24:30.063 7dd Delete type=0 #13
-2023/07/08-06:24:30.063 7dd Delete type=2 #8
-2023/07/08-06:24:30.063 7dd Delete type=2 #14
-2023/07/08-06:24:30.063 7dd Delete type=2 #11
-2023/07/08-06:24:30.063 7dd Delete type=0 #4
-2023/07/08-06:24:30.063 7dd Delete type=0 #7
-2023/07/08-06:24:30.063 7dd Delete type=0 #3
+2023/07/14-06:24:23.576 7e7 Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/14-06:24:23.577 7e7 Recovering log #18
+2023/07/14-06:24:23.578 7e7 Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/000018.log 
+2023/07/14-06:24:23.578 7e7 Delete type=0 #10
+2023/07/14-06:24:23.578 7e7 Delete type=0 #13
+2023/07/14-06:24:23.578 7e7 Delete type=2 #8
+2023/07/14-06:24:23.578 7e7 Delete type=2 #14
+2023/07/14-06:24:23.578 7e7 Delete type=2 #11
+2023/07/14-06:24:23.578 7e7 Delete type=0 #4
+2023/07/14-06:24:23.578 7e7 Delete type=0 #7
+2023/07/14-06:24:23.578 7e7 Delete type=0 #3
+2023/07/14-06:27:30.375 7e7 Level-0 table #23: started
+2023/07/14-06:27:30.378 7e7 Level-0 table #23: 7252 bytes OK
+2023/07/14-06:27:30.379 7e7 Delete type=0 #18
+2023/07/14-06:33:30.375 a9d Level-0 table #25: started
+2023/07/14-06:33:30.378 a9d Level-0 table #25: 6969 bytes OK
+2023/07/14-06:33:30.380 a9d Delete type=0 #22

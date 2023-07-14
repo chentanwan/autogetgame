@@ -14004,3 +14004,291 @@ Traceback (most recent call last):
     raise RequestException("Failed to get order history, cookie may have expired")
 requests.exceptions.RequestException: Failed to get order history, cookie may have expired
 2023-07-14 06:47:55.861 | DEBUG    | services.deploy:preload:286 - >> Checkout [GameClaimer] Train Valley 2 - state=待认领 link=https://store.epicgames.com/zh-CN/p/train-valley-2-3606da
+2023-07-15 06:23:58.291 | INFO     | services.deploy:job_loop_claim:104 - >> STARTUP [AwesomeScheduler] SynergyTunnel - version=0.4.4-dev Pattern=False
+2023-07-15 06:23:59.977 | INFO     | services.bricklayer.core:refresh_ctx_cookies:691 - >> MATCH [__context__] 🎮启动挑战者上下文
+2023-07-15 06:24:00.031 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:24:13.896 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:24:13.897 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:24:16.221 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「请点击狮子」
+2023-07-15 06:24:16.221 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:24:16.241 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:24:16.242 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=0.0s
+2023-07-15 06:24:16.550 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:24:52.589 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:24:52.589 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:24:54.790 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「请点击牛」
+2023-07-15 06:24:54.791 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:24:54.807 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:24:54.808 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=0.0s
+2023-07-15 06:24:55.007 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:25:31.007 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:25:31.008 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:25:33.157 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「考拉」
+2023-07-15 06:25:33.157 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:25:33.629 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:25:34.894 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.27s
+2023-07-15 06:25:35.081 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:26:10.966 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:26:10.966 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:26:13.157 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「考拉」
+2023-07-15 06:26:13.157 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:26:13.626 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:26:14.849 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.22s
+2023-07-15 06:26:15.038 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:26:51.052 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:26:51.052 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:26:53.200 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「考拉」
+2023-07-15 06:26:53.200 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:26:53.637 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:26:54.837 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.2s
+2023-07-15 06:26:55.007 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:27:31.032 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:27:31.033 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:27:33.159 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「考拉」
+2023-07-15 06:27:33.159 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:27:33.578 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:27:34.762 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.18s
+2023-07-15 06:27:34.927 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:28:10.945 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:28:10.945 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:28:13.126 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「考拉」
+2023-07-15 06:28:13.126 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:28:13.577 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:28:14.696 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.12s
+2023-07-15 06:28:14.856 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:28:50.812 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:28:50.812 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:28:52.958 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「考拉」
+2023-07-15 06:28:52.958 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:28:53.389 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:28:54.550 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.16s
+2023-07-15 06:28:54.709 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:29:30.691 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:29:30.691 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:29:32.819 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「考拉」
+2023-07-15 06:29:32.820 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:29:33.280 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:29:34.474 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.19s
+2023-07-15 06:29:34.649 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:30:10.603 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:30:10.603 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:30:12.751 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「考拉」
+2023-07-15 06:30:12.751 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:30:13.185 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:30:14.347 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.16s
+2023-07-15 06:30:14.498 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:30:50.467 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:30:50.467 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:30:52.610 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「考拉」
+2023-07-15 06:30:52.610 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:30:53.061 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:30:54.264 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.2s
+2023-07-15 06:30:54.423 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:31:30.420 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:31:30.420 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:31:32.573 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「橡皮鸭」
+2023-07-15 06:31:32.574 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:31:32.975 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:31:34.242 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.27s
+2023-07-15 06:31:34.397 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:32:10.402 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:32:10.402 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:32:12.548 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「下图中显示的是什么动物？」
+2023-07-15 06:32:12.548 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:32:12.610 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:32:13.951 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.34s
+2023-07-15 06:32:14.106 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:32:50.053 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:32:50.053 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:32:52.271 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「下图中你能看到什么乐器？」
+2023-07-15 06:32:52.271 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:32:52.326 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:32:53.733 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.41s
+2023-07-15 06:32:53.924 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:33:29.916 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:33:29.916 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:33:32.111 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「水果」
+2023-07-15 06:33:32.111 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:33:32.592 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:33:33.932 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.34s
+2023-07-15 06:33:34.108 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:34:10.135 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:34:10.135 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:34:12.265 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「下图中你能看到什么乐器？」
+2023-07-15 06:34:12.266 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:34:12.329 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:34:13.600 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.27s
+2023-07-15 06:34:13.766 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:34:49.662 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:34:49.662 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:34:51.849 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「下图中你能看到什么乐器？」
+2023-07-15 06:34:51.850 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:34:51.906 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:34:53.241 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.33s
+2023-07-15 06:34:53.433 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:35:29.349 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:35:29.349 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:35:31.543 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「考拉」
+2023-07-15 06:35:31.543 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:35:31.973 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:35:33.252 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.28s
+2023-07-15 06:35:33.405 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:36:09.447 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:36:09.447 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:36:11.588 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「下图中你能看到什么乐器？」
+2023-07-15 06:36:11.588 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:36:11.650 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:36:12.960 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.31s
+2023-07-15 06:36:13.114 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:36:49.075 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:36:49.075 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:36:51.217 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「考拉」
+2023-07-15 06:36:51.217 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:36:51.665 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:36:52.952 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.29s
+2023-07-15 06:36:53.155 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:37:29.159 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:37:29.159 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:37:31.313 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「考拉」
+2023-07-15 06:37:31.313 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:37:31.782 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:37:33.106 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.32s
+2023-07-15 06:37:33.255 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:38:09.198 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:38:09.199 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:38:11.382 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「考拉」
+2023-07-15 06:38:11.382 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:38:11.904 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:38:13.262 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.36s
+2023-07-15 06:38:13.461 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:38:49.375 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:38:49.376 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:38:51.518 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「下图中你能看到什么乐器？」
+2023-07-15 06:38:51.518 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:38:51.577 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:38:52.945 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.37s
+2023-07-15 06:38:53.089 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:39:29.150 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:39:29.151 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:39:31.341 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「下图中你能看到什么乐器？」
+2023-07-15 06:39:31.341 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:39:31.402 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:39:32.762 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.36s
+2023-07-15 06:39:32.902 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:40:09.137 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:40:09.137 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:40:11.327 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「考拉」
+2023-07-15 06:40:11.327 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:40:11.722 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:40:13.086 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.36s
+2023-07-15 06:40:13.246 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:40:49.152 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:40:49.153 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:40:51.300 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「水果」
+2023-07-15 06:40:51.301 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:40:51.724 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:40:53.099 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.37s
+2023-07-15 06:40:53.262 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:41:29.258 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:41:29.258 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:41:31.388 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「考拉」
+2023-07-15 06:41:31.389 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:41:31.807 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:41:33.105 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.3s
+2023-07-15 06:41:33.266 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:42:09.255 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:42:09.255 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:42:11.382 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「下图中你能看到什么乐器？」
+2023-07-15 06:42:11.382 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:42:11.440 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:42:12.745 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.3s
+2023-07-15 06:42:12.901 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:42:48.901 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:42:48.901 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:42:51.044 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「考拉」
+2023-07-15 06:42:51.045 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:42:51.450 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:42:52.751 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.3s
+2023-07-15 06:42:52.938 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:43:28.975 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:43:28.976 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:43:31.166 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「考拉」
+2023-07-15 06:43:31.167 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:43:31.594 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:43:32.934 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.34s
+2023-07-15 06:43:33.093 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:44:09.073 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:44:09.074 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:44:11.265 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「考拉」
+2023-07-15 06:44:11.265 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:44:11.722 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:44:13.062 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.34s
+2023-07-15 06:44:13.222 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:44:49.336 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:44:49.336 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:44:51.461 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「考拉」
+2023-07-15 06:44:51.462 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:44:51.886 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:44:53.159 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.27s
+2023-07-15 06:44:53.317 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:45:29.259 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:45:29.260 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:45:31.389 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「考拉」
+2023-07-15 06:45:31.389 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:45:31.802 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:45:33.141 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.34s
+2023-07-15 06:45:33.318 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:46:09.204 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:46:09.205 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:46:11.391 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「考拉」
+2023-07-15 06:46:11.391 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:46:11.818 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:46:13.171 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.35s
+2023-07-15 06:46:13.335 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:46:49.314 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:46:49.314 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:46:51.469 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「下图中显示的是什么动物？」
+2023-07-15 06:46:51.469 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:46:51.526 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:46:52.836 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.31s
+2023-07-15 06:46:53.019 | INFO     | services.bricklayer.core:login:491 - >> MATCH [CookieManager] 刷新令牌
+2023-07-15 06:47:29.126 | INFO     | services.bricklayer.core:login:526 - >> MATCH [CookieManager] 实体信息注入完毕
+2023-07-15 06:47:29.126 | INFO     | services.bricklayer.core:fall_in_captcha_login:36 - >> ARMOR [ArmorUtils] 正在检测隐藏在登录界面的人机挑战...
+2023-07-15 06:47:31.257 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Get label - label=「水果」
+2023-07-15 06:47:31.257 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在编排索引
+2023-07-15 06:47:31.666 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] 正在下载挑战图片
+2023-07-15 06:47:32.976 | DEBUG    | hcaptcha_challenger.core:log:317 - >> Challenge [ArmorCaptcha] Download challenge images - timeit=1.31s
+2023-07-15 06:47:33.136 | CRITICAL | services.bricklayer.core:refresh_ctx_cookies:717 - >> MISS [CookieManager] Identity token update failed
+2023-07-15 06:47:33.619 | INFO     | services.bricklayer.core:load_ctx_cookies:659 - >> LOAD [CookieManager] Load context cookie
+2023-07-15 06:47:33.620 | INFO     | services.explorer.explorer:load_memory:195 - 加载历史订单数据 本地缓存119小时有效
+2023-07-15 06:47:33.620 | INFO     | services.explorer.explorer:get_oder_history:216 - 初始化订单数据
+2023-07-15 06:47:33.890 | ERROR    | services.explorer.explorer:get_order_history:142 - Failed to get order history, cookie may have expired
+Traceback (most recent call last):
+  File "/home/runner/work/autogetgame/autogetgame/epic/src/main.py", line 11, in <module>
+    Fire(Scaffold)
+  File "/opt/hostedtoolcache/Python/3.10.12/x64/lib/python3.10/site-packages/fire/core.py", line 141, in Fire
+    component_trace = _Fire(component, args, parsed_flag_args, context, name)
+  File "/opt/hostedtoolcache/Python/3.10.12/x64/lib/python3.10/site-packages/fire/core.py", line 466, in _Fire
+    component, remaining_args = _CallAndUpdateTrace(
+  File "/opt/hostedtoolcache/Python/3.10.12/x64/lib/python3.10/site-packages/fire/core.py", line 681, in _CallAndUpdateTrace
+    component = fn(*varargs, **kwargs)
+  File "/home/runner/work/autogetgame/autogetgame/epic/src/services/scaffold.py", line 138, in claim
+    claimer.run(silence=silence, log_ignore=ignore, unreal=unreal)
+  File "/home/runner/work/autogetgame/autogetgame/epic/src/apis/scaffold/claimer.py", line 26, in run
+    ClaimerScheduler(silence=silence, unreal=unreal).job_loop_claim(log_ignore)
+  File "/home/runner/work/autogetgame/autogetgame/epic/src/services/deploy.py", line 112, in job_loop_claim
+    claimer.just_do_it()
+  File "/home/runner/work/autogetgame/autogetgame/epic/src/services/deploy.py", line 309, in just_do_it
+    fire(
+  File "/home/runner/work/autogetgame/autogetgame/epic/src/services/utils/toolbox.py", line 84, in fire
+    container(context)
+  File "/home/runner/work/autogetgame/autogetgame/epic/src/services/deploy.py", line 301, in run
+    promotions = self.preload()
+  File "/home/runner/work/autogetgame/autogetgame/epic/src/services/deploy.py", line 269, in preload
+    self.ph.get_oder_history(ctx_cookies=self._ctx_cookies)
+  File "/home/runner/work/autogetgame/autogetgame/epic/src/services/explorer/explorer.py", line 219, in get_oder_history
+    if resp := explorer.get_order_history(ctx_cookies):
+> File "/home/runner/work/autogetgame/autogetgame/epic/src/services/explorer/explorer.py", line 140, in get_order_history
+    raise RequestException("Failed to get order history, cookie may have expired")
+requests.exceptions.RequestException: Failed to get order history, cookie may have expired
+2023-07-15 06:47:34.119 | DEBUG    | services.deploy:preload:286 - >> Checkout [GameClaimer] Train Valley 2 - state=待认领 link=https://store.epicgames.com/zh-CN/p/train-valley-2-3606da

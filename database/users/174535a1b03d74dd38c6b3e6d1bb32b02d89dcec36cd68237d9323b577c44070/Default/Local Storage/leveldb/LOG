@@ -1,17 +1,31 @@
-2023/07/14-06:24:23.576 7e7 Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/14-06:24:23.577 7e7 Recovering log #18
-2023/07/14-06:24:23.578 7e7 Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/000018.log 
-2023/07/14-06:24:23.578 7e7 Delete type=0 #10
-2023/07/14-06:24:23.578 7e7 Delete type=0 #13
-2023/07/14-06:24:23.578 7e7 Delete type=2 #8
-2023/07/14-06:24:23.578 7e7 Delete type=2 #14
-2023/07/14-06:24:23.578 7e7 Delete type=2 #11
-2023/07/14-06:24:23.578 7e7 Delete type=0 #4
-2023/07/14-06:24:23.578 7e7 Delete type=0 #7
-2023/07/14-06:24:23.578 7e7 Delete type=0 #3
-2023/07/14-06:27:30.375 7e7 Level-0 table #23: started
-2023/07/14-06:27:30.378 7e7 Level-0 table #23: 7252 bytes OK
-2023/07/14-06:27:30.379 7e7 Delete type=0 #18
-2023/07/14-06:33:30.375 a9d Level-0 table #25: started
-2023/07/14-06:33:30.378 a9d Level-0 table #25: 6969 bytes OK
-2023/07/14-06:33:30.380 a9d Delete type=0 #22
+2023/07/15-06:23:59.163 7dd Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/15-06:23:59.168 7dd Recovering log #24
+2023/07/15-06:23:59.168 7dd Level-0 table #27: started
+2023/07/15-06:23:59.217 7dd Level-0 table #27: 7058 bytes OK
+2023/07/15-06:23:59.217 7dd Recovering log #26
+2023/07/15-06:23:59.218 7dd Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/000026.log 
+2023/07/15-06:23:59.415 7dd Delete type=0 #10
+2023/07/15-06:23:59.415 7dd Delete type=0 #18
+2023/07/15-06:23:59.415 7dd Delete type=0 #24
+2023/07/15-06:23:59.415 7dd Delete type=0 #13
+2023/07/15-06:23:59.415 7dd Delete type=2 #8
+2023/07/15-06:23:59.415 7dd Delete type=2 #14
+2023/07/15-06:23:59.415 7dd Delete type=2 #11
+2023/07/15-06:23:59.415 7dd Delete type=0 #4
+2023/07/15-06:23:59.415 7dd Delete type=0 #7
+2023/07/15-06:23:59.415 7dd Delete type=0 #3
+2023/07/15-06:39:07.098 dc4 Level-0 table #29: started
+2023/07/15-06:39:07.100 dc4 Level-0 table #29: 6985 bytes OK
+2023/07/15-06:39:07.102 dc4 Delete type=0 #26
+2023/07/15-06:39:07.102 dc4 Compacting 4@0 + 1@1 files
+2023/07/15-06:39:07.104 dc4 Generated table #30@0: 526 keys, 4089 bytes
+2023/07/15-06:39:07.105 dc4 Compacted 4@0 + 1@1 files => 4089 bytes
+2023/07/15-06:39:07.105 dc4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/15-06:39:07.106 dc4 Delete type=2 #23
+2023/07/15-06:39:07.106 dc4 Delete type=2 #20
+2023/07/15-06:39:07.106 dc4 Delete type=2 #25
+2023/07/15-06:39:07.106 dc4 Delete type=2 #29
+2023/07/15-06:39:07.106 dc4 Delete type=2 #27
+2023/07/15-06:45:07.098 f8c Level-0 table #32: started
+2023/07/15-06:45:07.100 f8c Level-0 table #32: 6957 bytes OK
+2023/07/15-06:45:07.102 f8c Delete type=0 #28
