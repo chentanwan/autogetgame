@@ -1,16 +1,16 @@
-2023/07/21-06:22:09.514 7e2 Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Session Storage/MANIFEST-000001
-2023/07/21-06:22:09.515 7e2 Recovering log #32
-2023/07/21-06:22:09.516 7e2 Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Session Storage/000032.log 
-2023/07/21-06:22:09.517 7e2 Delete type=2 #17
-2023/07/21-06:22:09.517 7e2 Delete type=0 #26
-2023/07/21-06:22:09.517 7e2 Delete type=0 #15
-2023/07/21-06:22:09.517 7e2 Delete type=2 #20
-2023/07/21-06:22:09.518 7e2 Delete type=2 #22
-2023/07/21-06:22:09.518 7e2 Delete type=2 #7
-2023/07/21-06:22:09.518 7e2 Delete type=2 #10
-2023/07/21-06:22:09.518 7e2 Delete type=0 #9
-2023/07/21-06:22:09.518 7e2 Delete type=0 #12
-2023/07/21-06:22:09.518 7e2 Delete type=0 #4
-2023/07/21-06:22:09.518 7e2 Delete type=0 #21
-2023/07/21-06:22:09.518 7e2 Delete type=0 #3
-2023/07/21-06:22:09.518 7e2 Delete type=2 #13
+2023/07/22-06:21:46.682 7da Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Session Storage/MANIFEST-000001
+2023/07/22-06:21:46.690 7da Recovering log #32
+2023/07/22-06:21:46.694 7da Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Session Storage/000032.log 
+2023/07/22-06:21:46.699 7da Delete type=2 #17
+2023/07/22-06:21:46.699 7da Delete type=0 #26
+2023/07/22-06:21:46.699 7da Delete type=0 #15
+2023/07/22-06:21:46.699 7da Delete type=2 #20
+2023/07/22-06:21:46.699 7da Delete type=2 #22
+2023/07/22-06:21:46.699 7da Delete type=2 #7
+2023/07/22-06:21:46.699 7da Delete type=2 #10
+2023/07/22-06:21:46.699 7da Delete type=0 #9
+2023/07/22-06:21:46.699 7da Delete type=0 #12
+2023/07/22-06:21:46.699 7da Delete type=0 #4
+2023/07/22-06:21:46.699 7da Delete type=0 #21
+2023/07/22-06:21:46.699 7da Delete type=0 #3
+2023/07/22-06:21:46.699 7da Delete type=2 #13

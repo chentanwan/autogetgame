@@ -1,17 +1,17 @@
-2023/07/22-06:21:46.545 7da Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/MANIFEST-000001
-2023/07/22-06:21:46.550 7da Recovering log #31
-2023/07/22-06:21:46.550 7da Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/000031.log 
-2023/07/22-06:21:46.551 7da Delete type=0 #10
-2023/07/22-06:21:46.551 7da Delete type=0 #18
-2023/07/22-06:21:46.551 7da Delete type=2 #23
-2023/07/22-06:21:46.551 7da Delete type=0 #26
-2023/07/22-06:21:46.551 7da Delete type=2 #20
-2023/07/22-06:21:46.551 7da Delete type=0 #24
-2023/07/22-06:21:46.551 7da Delete type=0 #13
-2023/07/22-06:21:46.551 7da Delete type=2 #8
-2023/07/22-06:21:46.551 7da Delete type=2 #25
-2023/07/22-06:21:46.551 7da Delete type=2 #14
-2023/07/22-06:21:46.551 7da Delete type=2 #11
-2023/07/22-06:21:46.551 7da Delete type=0 #4
-2023/07/22-06:21:46.551 7da Delete type=0 #7
-2023/07/22-06:21:46.551 7da Delete type=0 #3
+2023/07/28-06:20:46.739 7fb Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/MANIFEST-000001
+2023/07/28-06:20:46.741 7fb Recovering log #31
+2023/07/28-06:20:46.742 7fb Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/000031.log 
+2023/07/28-06:20:46.742 7fb Delete type=0 #10
+2023/07/28-06:20:46.742 7fb Delete type=0 #18
+2023/07/28-06:20:46.742 7fb Delete type=2 #23
+2023/07/28-06:20:46.742 7fb Delete type=0 #26
+2023/07/28-06:20:46.742 7fb Delete type=2 #20
+2023/07/28-06:20:46.743 7fb Delete type=0 #24
+2023/07/28-06:20:46.743 7fb Delete type=0 #13
+2023/07/28-06:20:46.743 7fb Delete type=2 #8
+2023/07/28-06:20:46.743 7fb Delete type=2 #25
+2023/07/28-06:20:46.743 7fb Delete type=2 #14
+2023/07/28-06:20:46.743 7fb Delete type=2 #11
+2023/07/28-06:20:46.743 7fb Delete type=0 #4
+2023/07/28-06:20:46.743 7fb Delete type=0 #7
+2023/07/28-06:20:46.743 7fb Delete type=0 #3
