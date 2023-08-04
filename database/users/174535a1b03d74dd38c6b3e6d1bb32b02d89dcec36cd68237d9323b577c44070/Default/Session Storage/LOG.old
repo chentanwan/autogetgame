@@ -1,19 +1,17 @@
-2023/07/29-06:21:12.595 843 Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Session Storage/MANIFEST-000001
-2023/07/29-06:21:12.596 843 Recovering log #32
-2023/07/29-06:21:12.598 843 Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Session Storage/000032.log 
-2023/07/29-06:21:12.599 843 Delete type=2 #17
-2023/07/29-06:21:12.599 843 Delete type=0 #26
-2023/07/29-06:21:12.599 843 Delete type=0 #15
-2023/07/29-06:21:12.599 843 Delete type=2 #20
-2023/07/29-06:21:12.599 843 Delete type=2 #22
-2023/07/29-06:21:12.599 843 Delete type=2 #7
-2023/07/29-06:21:12.599 843 Delete type=2 #10
-2023/07/29-06:21:12.599 843 Delete type=0 #9
-2023/07/29-06:21:12.599 843 Delete type=0 #12
-2023/07/29-06:21:12.599 843 Delete type=0 #4
-2023/07/29-06:21:12.599 843 Delete type=0 #21
-2023/07/29-06:21:12.599 843 Delete type=0 #3
-2023/07/29-06:21:12.599 843 Delete type=2 #13
-2023/07/29-06:44:43.311 843 Level-0 table #36: started
-2023/07/29-06:44:43.314 843 Level-0 table #36: 7831 bytes OK
-2023/07/29-06:44:43.330 843 Delete type=0 #32
+2023/08/04-06:20:58.063 820 Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Session Storage/MANIFEST-000001
+2023/08/04-06:20:58.064 820 Recovering log #35
+2023/08/04-06:20:58.064 820 Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Session Storage/000035.log 
+2023/08/04-06:20:58.065 820 Delete type=0 #32
+2023/08/04-06:20:58.065 820 Delete type=2 #7
+2023/08/04-06:20:58.065 820 Delete type=2 #17
+2023/08/04-06:20:58.065 820 Delete type=2 #10
+2023/08/04-06:20:58.065 820 Delete type=0 #3
+2023/08/04-06:20:58.065 820 Delete type=0 #9
+2023/08/04-06:20:58.065 820 Delete type=2 #13
+2023/08/04-06:20:58.065 820 Delete type=2 #22
+2023/08/04-06:20:58.065 820 Delete type=0 #26
+2023/08/04-06:20:58.065 820 Delete type=0 #21
+2023/08/04-06:20:58.066 820 Delete type=0 #15
+2023/08/04-06:20:58.066 820 Delete type=0 #4
+2023/08/04-06:20:58.066 820 Delete type=0 #12
+2023/08/04-06:20:58.066 820 Delete type=2 #20
