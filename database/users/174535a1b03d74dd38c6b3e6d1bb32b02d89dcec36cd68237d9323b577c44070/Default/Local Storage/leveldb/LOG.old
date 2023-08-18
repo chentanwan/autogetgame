@@ -1,22 +1,22 @@
-2023/08/12-06:20:42.634 7e4 Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/MANIFEST-000001
-2023/08/12-06:20:42.635 7e4 Recovering log #39
-2023/08/12-06:20:42.649 7e4 Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/000039.log 
-2023/08/12-06:20:42.653 7e4 Delete type=0 #10
-2023/08/12-06:20:42.653 7e4 Delete type=0 #34
-2023/08/12-06:20:42.653 7e4 Delete type=2 #23
-2023/08/12-06:20:42.653 7e4 Delete type=0 #13
-2023/08/12-06:20:42.653 7e4 Delete type=2 #35
-2023/08/12-06:20:42.653 7e4 Delete type=0 #3
-2023/08/12-06:20:42.653 7e4 Delete type=0 #26
-2023/08/12-06:20:42.653 7e4 Delete type=2 #11
-2023/08/12-06:20:42.653 7e4 Delete type=2 #14
-2023/08/12-06:20:42.653 7e4 Delete type=2 #30
-2023/08/12-06:20:42.653 7e4 Delete type=0 #7
-2023/08/12-06:20:42.653 7e4 Delete type=0 #24
-2023/08/12-06:20:42.653 7e4 Delete type=0 #4
-2023/08/12-06:20:42.653 7e4 Delete type=2 #32
-2023/08/12-06:20:42.653 7e4 Delete type=2 #8
-2023/08/12-06:20:42.653 7e4 Delete type=0 #18
-2023/08/12-06:20:42.653 7e4 Delete type=2 #20
-2023/08/12-06:20:42.654 7e4 Delete type=2 #25
-2023/08/12-06:20:42.654 7e4 Delete type=0 #31
+2023/08/18-06:21:02.277 82a Reusing MANIFEST /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/MANIFEST-000001
+2023/08/18-06:21:02.278 82a Recovering log #39
+2023/08/18-06:21:02.279 82a Reusing old log /home/runner/work/autogetgame/autogetgame/epic/src/database/users/174535a1b03d74dd38c6b3e6d1bb32b02d89dcec36cd68237d9323b577c44070/Default/Local Storage/leveldb/000039.log 
+2023/08/18-06:21:02.284 82a Delete type=0 #10
+2023/08/18-06:21:02.284 82a Delete type=0 #34
+2023/08/18-06:21:02.284 82a Delete type=2 #23
+2023/08/18-06:21:02.284 82a Delete type=0 #13
+2023/08/18-06:21:02.284 82a Delete type=2 #35
+2023/08/18-06:21:02.284 82a Delete type=0 #3
+2023/08/18-06:21:02.284 82a Delete type=0 #26
+2023/08/18-06:21:02.284 82a Delete type=2 #11
+2023/08/18-06:21:02.284 82a Delete type=2 #14
+2023/08/18-06:21:02.284 82a Delete type=2 #30
+2023/08/18-06:21:02.284 82a Delete type=0 #7
+2023/08/18-06:21:02.285 82a Delete type=0 #24
+2023/08/18-06:21:02.285 82a Delete type=0 #4
+2023/08/18-06:21:02.285 82a Delete type=2 #32
+2023/08/18-06:21:02.285 82a Delete type=2 #8
+2023/08/18-06:21:02.285 82a Delete type=0 #18
+2023/08/18-06:21:02.285 82a Delete type=2 #20
+2023/08/18-06:21:02.285 82a Delete type=2 #25
+2023/08/18-06:21:02.285 82a Delete type=0 #31
